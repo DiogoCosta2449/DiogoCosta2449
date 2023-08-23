@@ -2,8 +2,8 @@
 <h3 align="center">A student passionate about CyberSecurity | CTF | BugBounty</h3> 
 <img align="right" alt="coding" width="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpUN4S2L3CrgF7kjT2xlDvDoLbQ7zfIfI2-Wrr_FdTUyQADB9yy7fouoDqqeRpj155dddv1pmwlsxWeya68bG9-TlsD7qbJb2-YtSs7Qki09Dhi3G485ASOni2OkzO7KL6HfiKSxr2o9sSCX8DDXVH0WHFQ45GJ1yux_sJlrF4GkL4-V0QDqC-R3mQFg/s646/ctf_flag_logo.gif">
 
-- My Tryhackme profile [https://tryhackme.com/p/mpc](https://tryhackme.com/p/mpc)
-
+<h3 align="left" >My TryHackme profile: </h3>
+<p> <a href="https://tryhackme.com/p/mpc" target="_blank" rel="noreferrer"> <img align="center" src="https://tryhackme-badges.s3.amazonaws.com/mpc.png" alt="TryHackMe"> </a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/diogo-costa-700a27207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/diogo-costa-700a27207/" height="30" width="40" /></a>
@@ -18,4 +18,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dmpdc-123&show_icons=true&locale=en" alt="dmpdc-123" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dmpdc-123&" alt="dmpdc-123" /></p>
