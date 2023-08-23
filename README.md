@@ -16,5 +16,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DiogoCosta2449&show_icons=true&locale=en&layout=compact" alt="DiogoCosta2449" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DiogoCosta2449-123&show_icons=true&locale=en" alt="DiogoCosta2449" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DiogoCosta2449&show_icons=true&locale=en" alt="DiogoCosta2449" /></p>
 
