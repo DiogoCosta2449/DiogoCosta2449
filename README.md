@@ -4,11 +4,6 @@
 
 <h3 align="left" >My TryHackme profile: </h3>
 <p> <a href="https://tryhackme.com/p/mpc" target="_blank" rel="noreferrer"> <img align="center" src="https://tryhackme-badges.s3.amazonaws.com/mpc.png" alt="TryHackMe"> </a> </p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/diogo-costa-700a27207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/diogo-costa-700a27207/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/13931850/mpc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/13931850/mpc" height="30" width="40" /></a>
-</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
