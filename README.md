@@ -3,7 +3,7 @@
 
 ### My TryHackme profile:
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/155486.png)
+<img src="https://tryhackme-badges.s3.amazonaws.com/mpc.png" alt="TryHackMe">
 
 
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
